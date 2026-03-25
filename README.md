@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-## NAME : ASWIN K N
-## REG.NO : 212224230027
+## NAME : Jeya soundhar P
+## REG.NO : 212224040138
 ## DATE : 11-02-2026
 
 ## Aim:
